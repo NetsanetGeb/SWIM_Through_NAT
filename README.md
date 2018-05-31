@@ -40,7 +40,7 @@ This package consists of 3 simulation files with different scenarios inside each
    - SimulationLinkFailure.java
 ```
 
-Similarly to test these files select the .java test file you wish to execute and run it as a file (Run File).
+Similarly to test these files select the `.java` test file you wish to execute and run it as a file (`Run File`).
 
 ## Effect of Message Size Limmiting
 
